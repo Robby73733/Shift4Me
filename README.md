@@ -7,7 +7,7 @@ Shift4me is designed to be very simple to use. But “under the hood” there’
 In this manual we’ll use “DG” as short for Derailleur Gears, so with x-amount of sprockets, and “HG” for Hub Gears, with internal gears in the rear wheel.
 Don’t forget to post any comments you may have - positive or negative - or feature requests on the forum of the website.
 
-## Distributors
+## Contributors
 
 
 Jan Oelbrandt <info@shift4me.com>
