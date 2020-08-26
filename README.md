@@ -14,7 +14,7 @@ Jan Oelbrandt <info@shift4me.com>
 
 Van Vuong Ngo [vanvuongngo@github](https://github.com/vanvuongngo)
 
-
+[![Shift4Me - Automatic Gear Shifting](https://img.youtube.com/vi/caMIED0Iqpo/maxresdefault.jpg)](https://youtu.be/caMIED0Iqpo)
 
 ## What?
 Shift4Me is a system that you can add to a bicycle. It is an electronic device that shifts your gears, based upon cadence (the rotation of your pedals). Its goal is to keep you in a comfortable gear setting, so your bike ride is comfortable and efficient. You can add a Shift4me to any bicycle that has a single cable (spring return) gearing system - that includes standard “cassette” derailleurs, hubgears (internal gears in the rear wheel axle), that means 95% of the market.
