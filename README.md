@@ -3,7 +3,9 @@ Automatic Gear Shifting
 
 www.shift4me.com
 
-[heise.de news](https://www.heise.de/news/Shift4Me-Automatische-Fahrradschaltung-mit-Arduino-4873946.html)
+[heise.de news](https://www.heise.de/news/Shift4Me-Automatische-Fahrradschaltung-mit-Arduino-4873946.html) [2020/08/25]
+
+[chip.de news](https://www.chip.de/news/Fahrrad-Hack-So-bekommt-Ihr-Rad-eine-automatische-Gangschaltung_182934165.html) [2020/08/29]
 
 Shift4me is designed to be very simple to use. But “under the hood” there’s a lot going on. Apart from the normal handling, this manual will tell you how to adjust some parameters to suit your preferences such as cadence, gear changing speed and much more.
 In this manual we’ll use “DG” as short for Derailleur Gears, so with x-amount of sprockets, and “HG” for Hub Gears, with internal gears in the rear wheel.
