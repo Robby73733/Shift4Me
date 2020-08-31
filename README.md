@@ -36,6 +36,8 @@ Shift4Me is a do-it-yourself project: it is not available as a finished, ready-t
 
 see [Documents](/documents)
 
+see [Basic Components - Parts list](https://github.com/vanvuongngo/Shift4Me/blob/master/installation/Shift4Me-basic-components.pdf)
+
 
 # Installation Instructions
 
